@@ -14,3 +14,4 @@
 - [Is My Computer On Fire](http://ismycomputeronfire.com/)
 - [crzy.site](https://crzy.site/)
 - [iambored.site](https://iambored.site/) - An interactive web platform designed to help users break out of boredom by teleporting them to a random, curated website.
+- [braincell.lol](https://braincell.lol/) - An AI with 1,000,000 braincells that only knows what strangers paid it to know. 10 cents a character buys it a permanent memory, and it reacts to every one.
